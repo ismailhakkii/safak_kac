@@ -124,14 +124,4 @@ lib/
 - [ ] Bulut senkronizasyonu
 - [ ] Geri sayıma özel tema atama
 
-## 📝 Lisans
 
-Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
-
-## 👨‍💻 Katkıda Bulunanlar
-
-- [Katkıda Bulunanın Adı](https://github.com/kullaniciadi) - Geliştirici
-
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için [e-posta adresiniz@example.com](mailto:e-posta adresiniz@example.com) adresine e-posta gönderebilirsiniz.
